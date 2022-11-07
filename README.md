@@ -42,7 +42,7 @@
 -->
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="margin: 0 auto; max-width : 500px;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=chromeheartz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
