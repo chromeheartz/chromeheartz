@@ -15,6 +15,7 @@
   <span><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledComponents&logoColor=white&color=DB7093"></span>
   <br />
   <span><img src="https://img.shields.io/badge/-ReactQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/-tailwind-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white"></span>
 </div>
