@@ -9,10 +9,14 @@
   <span><img src="https://img.shields.io/badge/-gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white"></span>
   <br />
   <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></span>
+  <span><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/-ReactRouter-23F7DF1E?style=for-the-badge&logo=ReactRouter&logoColor=white&color=CA4245"></span>
   <span><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></span>
   <span><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledComponents&logoColor=white&color=DB7093"></span>
+  <br />
+  <span><img src="https://img.shields.io/badge/-ReactQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white"></span>
 </div>
 <br>
 <div align=center>
