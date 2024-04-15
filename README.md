@@ -6,7 +6,7 @@
 <span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
 <span><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></span>
 <br />
-<span><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/-ReactQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white"></a></span>
+<span><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/-TanStackQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white"></a></span>
 <span><a href="https://ko.redux.js.org/introduction/getting-started/"><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
 <span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Recoil&logoColor=white&color=3578e5"></a></span>
 <span><a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/redux--toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a></span>
