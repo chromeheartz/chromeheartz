@@ -5,7 +5,6 @@
   height="300"
 />
 </a>
-
  
 ### &#9873; The Things I Love
 
