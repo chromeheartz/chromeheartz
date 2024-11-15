@@ -41,4 +41,4 @@
 <a href="https://www.instagram.com/barnesquiat/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="mailto:barnesquiat@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
-![bibi-ezgif com-crop](https://github.com/user-attachments/assets/83b0d118-2b03-4069-8176-7d76620eb770)
+<!-- ![bibi-ezgif com-crop](https://github.com/user-attachments/assets/83b0d118-2b03-4069-8176-7d76620eb770)-->
