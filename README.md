@@ -37,7 +37,7 @@
 ## &#9873; Contact
 
 <a href="http://bibiboy.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" /></a>
-<a href="https://www.instagram.com/barnesquiat/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/taeutaro/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 <!-- <a href="https://velog.io/@bibiboy"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a> -->
 <!-- ![bibi-ezgif com-crop](https://github.com/user-attachments/assets/83b0d118-2b03-4069-8176-7d76620eb770)-->
