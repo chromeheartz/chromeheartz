@@ -21,10 +21,6 @@
 <span><a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/redux--toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a></span>
 <span><a href="https://github.com/redux-saga/redux-saga"><img src="https://img.shields.io/badge/redux--saga-999999.svg?style=for-the-badge&logo=reduxsaga&logoColor=white"></a></span>
 <span><a href="https://github.com/mobxjs"><img src="https://img.shields.io/badge/mobx-FF7102?style=for-the-badge&logo=MobX-State-Tree&logoColor=white"></a></span>
-<!--
-<br />
-<span><a href="https://testing-library.com/"><img src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a></span>
--->
 <br />
 <span><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-23F7DF1E?style=for-the-badge&logo=Sass&logoColor=white&color=cd6699"></a></span>
 <span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledcomponents&logoColor=white&color=DB7093"></a></span>
@@ -45,6 +41,11 @@
 
 <a href="http://bibiboy.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" /></a>
 <a href="https://www.instagram.com/taeutaro/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
+<!--
+<br />
+<span><a href="https://testing-library.com/"><img src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a></span>
+-->
 
 <!-- <a href="https://velog.io/@bibiboy"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a> -->
 <!-- ![bibi-ezgif com-crop](https://github.com/user-attachments/assets/83b0d118-2b03-4069-8176-7d76620eb770)-->
