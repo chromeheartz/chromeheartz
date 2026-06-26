@@ -1,3 +1,7 @@
+[![christmas tree](./profile-tree.svg)](https://github.com/chromeheartz/merry-gitmas)
+
+
+<!--
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/chromeheartz"
@@ -5,6 +9,7 @@
   height="300"
 />
 </a>
+-->
 
 ### &#9873; The Things I Love
 <span><a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></span>
@@ -40,7 +45,6 @@
 <a href="http://bibiboy.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" /></a>
 <a href="https://www.instagram.com/taeutaro/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
-[![christmas tree](./profile-tree.svg)](https://github.com/chromeheartz/merry-gitmas)
 
 <!--
 <br />
