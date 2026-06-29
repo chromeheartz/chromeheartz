@@ -1,7 +1,7 @@
 [![christmas tree](./profile-tree.svg)](https://github.com/chromeheartz/merry-gitmas)
 
 
-<!--
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/chromeheartz"
@@ -9,7 +9,7 @@
   height="300"
 />
 </a>
--->
+
 
 ### &#9873; The Things I Love
 <span><a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></span>
