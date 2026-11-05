@@ -1,5 +1,4 @@
-<img src="./status.svg" width="420" alt="utaro 상태창">
-<a href="https://github.com/chromeheartz/merry-gitmas"><img src="./profile-tree.svg" width="350" alt="커밋으로 자라는 픽셀 트리"></a>
+<p><img src="./status.svg" width="420" alt="utaro 상태창"> <a href="https://github.com/chromeheartz/merry-gitmas"><img src="./profile-tree.svg" width="350" alt="커밋으로 자라는 픽셀 트리"></a></p>
 
 <!-- projects:start -->
 <pre>$ ls ~/projects
