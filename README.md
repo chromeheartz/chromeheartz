@@ -1,58 +1,31 @@
-[![christmas tree](./profile-tree.svg)](https://github.com/chromeheartz/merry-gitmas)
+<p><img src="./status.svg" width="420" alt="utaro 상태창"> <a href="https://github.com/chromeheartz/merry-gitmas"><img src="./profile-tree.svg" width="350" alt="커밋으로 자라는 픽셀 트리"></a></p>
 
+<!-- projects:start -->
+<pre>$ ls ~/projects
+<a href="https://github.com/chromeheartz/claude-kun">claude-kun/</a>          Swift 메뉴바에서 보는 Claude Code 세션
+<a href="https://github.com/chromeheartz/byeollo">byeollo/</a>             HTML  다녀온 가게로 잇는 나만의 별자리
+<a href="https://github.com/chromeheartz/asciikun">asciikun/</a>            JS    아스키아트를 뿌려주는 CLI
+<a href="https://github.com/chromeheartz/coding-rpg-box">coding-rpg-box/</a>      JS    GitHub 활동으로 만드는 RPG 스탯 카드
+<a href="https://github.com/chromeheartz/merry-gitmas">merry-gitmas/</a>        TS    커밋으로 자라는 픽셀 트리
+<a href="https://github.com/chromeheartz/todoru.sh">todoru.sh/</a>           TS    슬래시 명령어로 쓰는 터미널 TODO
+<a href="https://github.com/chromeheartz/for-riru-zou-game">for-riru-zou-game/</a>   JS
+<a href="https://github.com/chromeheartz/work">work/</a>                HTML
+<a href="https://github.com/chromeheartz/paintjs">paintjs/</a>             JS    바닐라 JS 그림판
+<a href="https://github.com/chromeheartz/nonflix-clone">nonflix-clone/</a>       JS    넷플릭스 클론
 
-<!--
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/chromeheartz"
-  width="600"
-  height="300"
-/>
-</a>
--->
+$ ls ~/study
+<a href="https://github.com/chromeheartz/TIL">TIL/</a>                 TS    Today I Learned
+<a href="https://github.com/chromeheartz/JavaScriptAlgorithm">JavaScriptAlgorithm/</a> JS    알고리즘 문제풀이
+<a href="https://github.com/chromeheartz/type-challenge">type-challenge/</a>      TS    타입 챌린지 풀이
+<a href="https://github.com/chromeheartz/super-gulp">super-gulp/</a>          JS    gulp 학습
+<a href="https://github.com/chromeheartz/GraphQL-M-WEB">GraphQL-M-WEB/</a>       JS    GraphQL 클라이언트
+<a href="https://github.com/chromeheartz/GraphQL-M-API">GraphQL-M-API/</a>       JS    GraphQL 영화 API
+<a href="https://github.com/chromeheartz/ECMAScript6">ECMAScript6/</a>         JS    ES6 학습
+<a href="https://github.com/chromeheartz/basic-rn-nomad">basic-rn-nomad/</a>      JS    React Native 학습
+<a href="https://github.com/chromeheartz/basic-nextjs-nomad">basic-nextjs-nomad/</a>  JS    Next.js 학습
+<a href="https://github.com/chromeheartz/apple-nodejs">apple-nodejs/</a>        JS    Node.js 학습
+<a href="https://github.com/chromeheartz/web-scrapper">web-scrapper/</a>        Py    Python 스크래퍼
+<a href="https://github.com/chromeheartz/react-animation">react-animation/</a>     JS    React 애니메이션</pre>
+<!-- projects:end -->
 
-
-### &#9873; The Things I Love
-<span><a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></span>
-<span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
-<span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></span>
-<span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
-<span><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></span>
-<br />
-<span><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/-TanStackQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white"></a></span>
-<span><a href="https://ko.redux.js.org/introduction/getting-started/"><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
-<span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Recoil&logoColor=white&color=3578e5"></a></span>
-<span><a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/redux--toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a></span>
-<span><a href="https://github.com/redux-saga/redux-saga"><img src="https://img.shields.io/badge/redux--saga-999999.svg?style=for-the-badge&logo=reduxsaga&logoColor=white"></a></span>
-<span><a href="https://github.com/mobxjs"><img src="https://img.shields.io/badge/mobx-FF7102?style=for-the-badge&logo=MobX-State-Tree&logoColor=white"></a></span>
-<br />
-<span><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-23F7DF1E?style=for-the-badge&logo=Sass&logoColor=white&color=cd6699"></a></span>
-<span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledcomponents&logoColor=white&color=DB7093"></a></span>
-<span><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-tailwind-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white"></a></span>
-<br />
-<span><a href="https://jestjs.io/"><img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"></a></span>
-<span><a href="https://testing-library.com/"><img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white"></a></span>
-<br />
-<span><a href="https://webpack.kr/"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></a></span>
-<span><a href="https://babeljs.io/"><img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black"></a></span>
-<br/>
-<span><a href="https://babeljs.io/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a></span>
-<br/>
-<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
-
-## &#9873; Contact
-
-<a href="http://bibiboy.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" /></a>
-<a href="https://www.instagram.com/taeutaro/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-
-<!--
-<br />
-<span><a href="https://testing-library.com/"><img src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a></span>
--->
-
-<!-- <a href="https://velog.io/@bibiboy"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a> -->
-<!-- ![bibi-ezgif com-crop](https://github.com/user-attachments/assets/83b0d118-2b03-4069-8176-7d76620eb770)-->
-
-
+[Portfolio](https://utaro-dev.com) · [Instagram](https://www.instagram.com/taeutaro/)

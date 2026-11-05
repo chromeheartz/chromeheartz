@@ -1,0 +1,43 @@
+{
+  "user": "chromeheartz",
+  "gist": "ae96c45480f1675a5cec5d32964920bd",
+  "card": {
+    "name": "utaro",
+    "job": "FE 개발자 · 서울",
+    "tagline": "작은 도구를 만듭니다",
+    "equip": [
+      ["무기", "TypeScript"],
+      ["보조", "React · Next.js"],
+      ["특기", "React Native"]
+    ]
+  },
+  "terminal": {
+    "hide": ["chromeheartz"],
+    "study": [
+      "TIL", "JavaScriptAlgorithm", "type-challenge", "super-gulp", "GraphQL-M-WEB", "GraphQL-M-API",
+      "ECMAScript6", "basic-rn-nomad", "basic-nextjs-nomad", "apple-nodejs", "web-scrapper", "react-animation"
+    ],
+    "descriptions": {
+      "claude-kun": "메뉴바에서 보는 Claude Code 세션",
+      "byeollo": "다녀온 가게로 잇는 나만의 별자리",
+      "asciikun": "아스키아트를 뿌려주는 CLI",
+      "coding-rpg-box": "GitHub 활동으로 만드는 RPG 스탯 카드",
+      "merry-gitmas": "커밋으로 자라는 픽셀 트리",
+      "todoru.sh": "슬래시 명령어로 쓰는 터미널 TODO",
+      "paintjs": "바닐라 JS 그림판",
+      "nonflix-clone": "넷플릭스 클론",
+      "TIL": "Today I Learned",
+      "JavaScriptAlgorithm": "알고리즘 문제풀이",
+      "type-challenge": "타입 챌린지 풀이",
+      "super-gulp": "gulp 학습",
+      "GraphQL-M-WEB": "GraphQL 클라이언트",
+      "GraphQL-M-API": "GraphQL 영화 API",
+      "ECMAScript6": "ES6 학습",
+      "basic-rn-nomad": "React Native 학습",
+      "basic-nextjs-nomad": "Next.js 학습",
+      "apple-nodejs": "Node.js 학습",
+      "web-scrapper": "Python 스크래퍼",
+      "react-animation": "React 애니메이션"
+    }
+  }
+}

@@ -28,8 +28,17 @@ jobs:
           theme: ${{ inputs.theme || 'winter' }}
           width: 350
           output: profile-tree.svg
-      - name: Commit SVG
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build status card and project list
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install fonttools brotli
+          python scripts/build_profile.py
+      - name: Commit profile
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update christmas tree 🎄"
-          file_pattern: profile-tree.svg
+          commit_message: "chore: update profile 🎄"
+          file_pattern: profile-tree.svg status.svg README.md
