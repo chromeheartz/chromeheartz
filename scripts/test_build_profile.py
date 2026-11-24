@@ -24,4 +24,11 @@ try:
     raise SystemExit("replace_block accepted a README without markers")
 except ValueError:
     pass
+store_conf = {**conf, "extra": [{"name": "app", "language": "TS", "description": "앱"}],
+              "stores": {"app": ["App Store", "https://store/app"], "p": ["Chrome", "https://store/p"]}}
+store_block = terminal_block([repo("p")], store_conf)
+assert '<a href="https://store/app">app/</a>' in store_block and '앱 · <a href="https://store/app">App Store ↗</a>' in store_block
+assert '<a href="https://x/p">p/</a>' in store_block and '<a href="https://store/p">Chrome ↗</a>' in store_block
+assert store_block.index("app/") < store_block.index("p/")
+assert "~/study" not in terminal_block([repo("p")], {**conf, "study": []})
 print("ok")

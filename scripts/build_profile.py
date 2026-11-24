@@ -50,8 +50,12 @@ def clean_description(text):
 
 
 def terminal_block(repos, conf):
-    """Repos arrive sorted by last push. A new repo lands in ~/projects with its GitHub description."""
-    shown = [r for r in repos if not r["fork"] and r["name"] not in conf["hide"]]
+    """Repos arrive sorted by last push. A new repo lands in ~/projects with its GitHub description.
+
+    `extra` pins projects that have no public repo, and `stores` appends a store link after the description.
+    """
+    shown = conf.get("extra", []) + [r for r in repos if not r["fork"] and r["name"] not in conf["hide"]]
+    stores = conf.get("stores", {})
     width = max(len(r["name"]) for r in shown) + 2
 
     def row(repo):
@@ -59,12 +63,20 @@ def terminal_block(repos, conf):
         pad = " " * (width - len(name) - 1)
         lang = LANG.get(repo["language"], repo["language"] or "")
         desc = conf["descriptions"].get(name) or clean_description(repo["description"])
-        link = f'<a href="{html.escape(repo["html_url"])}">{html.escape(name)}/</a>'
-        return f"{link}{pad}{html.escape(lang):<6}{html.escape(desc)}".rstrip()
+        href = repo.get("html_url") or stores.get(name, [None, None])[1]
+        link = f'<a href="{html.escape(href)}">{html.escape(name)}/</a>' if href else f"{html.escape(name)}/"
+        store = ""
+        if name in stores:
+            label, url = stores[name]
+            store = f' · <a href="{html.escape(url)}">{html.escape(label)} ↗</a>'
+        return f"{link}{pad}{html.escape(lang):<6}{html.escape(desc)}".rstrip() + store
 
     projects = [row(r) for r in shown if r["name"] not in conf["study"]]
     study = [row(r) for r in shown if r["name"] in conf["study"]]
-    return "<pre>$ ls ~/projects\n" + "\n".join(projects) + "\n\n$ ls ~/study\n" + "\n".join(study) + "</pre>"
+    out = "<pre>$ ls ~/projects\n" + "\n".join(projects)
+    if study:
+        out += "\n\n$ ls ~/study\n" + "\n".join(study)
+    return out + "</pre>"
 
 
 def replace_block(readme, block):
@@ -138,8 +150,8 @@ def get(url):
 
 def main():
     conf = json.loads((ROOT / "profile.config.json").read_text())
-    gist = json.loads(get(f'https://api.github.com/gists/{conf["gist"]}'))
-    stats = parse_stats(next(iter(gist["files"].values()))["content"])
+    # The Action's GITHUB_TOKEN gets 403 on the gists API, so read the public raw file instead.
+    stats = parse_stats(get(f'https://gist.githubusercontent.com/{conf["user"]}/{conf["gist"]}/raw').decode())
     repos = json.loads(get(f'https://api.github.com/users/{conf["user"]}/repos?per_page=100&sort=pushed'))
 
     card = conf["card"]

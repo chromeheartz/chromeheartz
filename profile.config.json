@@ -12,12 +12,21 @@
     ]
   },
   "terminal": {
-    "hide": ["chromeheartz"],
-    "study": [
+    "hide": [
+      "chromeheartz", "for-riru-zou-game", "work", "paintjs", "nonflix-clone",
       "TIL", "JavaScriptAlgorithm", "type-challenge", "super-gulp", "GraphQL-M-WEB", "GraphQL-M-API",
       "ECMAScript6", "basic-rn-nomad", "basic-nextjs-nomad", "apple-nodejs", "web-scrapper", "react-animation"
     ],
+    "study": [],
+    "extra": [
+      {"name": "chakuchaku", "language": "TypeScript", "description": "일본어 독서 단어장"}
+    ],
+    "stores": {
+      "chakuchaku": ["App Store", "https://apps.apple.com/kr/app/%EC%B0%A9%EC%B0%A9-%EB%8B%A8%EC%96%B4%EC%9E%A5/id6835701248"],
+      "sodeung": ["Chrome", "https://chromewebstore.google.com/detail/sodeung/ljhchpcogdklccgoekpjmmhpibaddfpd"]
+    },
     "descriptions": {
+      "sodeung": "웹 페이지의 불을 끄는 다크 모드 확장",
       "claude-kun": "메뉴바에서 보는 Claude Code 세션",
       "byeollo": "다녀온 가게로 잇는 나만의 별자리",
       "asciikun": "아스키아트를 뿌려주는 CLI",
