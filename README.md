@@ -12,4 +12,12 @@
 <a href="https://github.com/chromeheartz/todoru.sh">todoru.sh/</a>      TS    슬래시 명령어로 쓰는 터미널 TODO</pre>
 <!-- projects:end -->
 
+<!-- projects:start -->
+<pre>@tanstack/query
+<a href="https://github.com/TanStack/query/pull/12692/changes/1c266922af79a2fa2ec7ca57da389dc29ba70d0e">docs(framework/angular/guides): add the 'polling' guide</a>
+<a href="https://github.com/TanStack/query/pull/12619/changes/2b9fc62efe048009085dbff705bbb5b7a13fc71b">docs(framework/{preact,react,solid}/guides): fix the "wont" typo to "won't"</a>
+  
+</pre>
+<!-- projects:end -->
+
 [Portfolio](https://utaro-dev.com) · [Instagram](https://www.instagram.com/taeutaro/)
